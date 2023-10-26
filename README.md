@@ -7,9 +7,6 @@ I am also actively looking for software development opportunities.
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align = "center">
   <a href="#">
-    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
     <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
@@ -20,6 +17,9 @@ I am also actively looking for software development opportunities.
   </a>
   <a href="#">
     <img src="svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
